@@ -3,6 +3,7 @@
 
 ## 2018
 
+* [Master workshop: off the chain](master-workshop-off-the-chain.md), June 30-July 1, Berlin
 * [Zcon0](zcon0-2018.md), June 26-28, Montreal
 * [EDCON: Community Ethereum Development Conference](edcon-2018.md), May 3-5, Tronto
 
