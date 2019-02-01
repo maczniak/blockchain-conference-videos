@@ -1,6 +1,10 @@
 
 # Blockchain Conference Videos
 
+## 2019
+
+* [Stanford Blockchain Conference](sbc-2019.md), Jan 30-Feb 1, Santa Clara
+
 ## 2018
 
 * [Master workshop: off the chain](master-workshop-off-the-chain.md), June 30-July 1, Berlin
