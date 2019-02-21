@@ -4,6 +4,7 @@
 ## 2019
 
 * [Stanford Blockchain Conference](sbc-2019.md), Jan 30-Feb 1, Santa Clara
+* [Real World Crypto 2019](rwc-2019.md), Jan 9-11, San Jose
 
 ## 2018
 
